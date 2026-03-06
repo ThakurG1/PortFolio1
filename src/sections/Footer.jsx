@@ -28,7 +28,7 @@ const Footer = () => {
                         <div className="flex items-center gap-3 mb-4">
                             <div className="w-10 h-10 rounded-xl flex items-center justify-center font-black"
                                 style={{ background: 'linear-gradient(135deg, #a855f7, #3b82f6)' }}>
-                                AT
+                                NT
                             </div>
                             <span className="text-white font-bold text-lg">Nabin Thakur</span>
                         </div>
